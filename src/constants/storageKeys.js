@@ -1,0 +1,1 @@
+export default {usersData: 'usersData', loggedInUser: 'loggedInUser'}
